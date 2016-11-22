@@ -1,4 +1,4 @@
-# Go-Lucky
+# Go-Happy
 
 This is my first attempt at creating a functional piece of software with GoLang.
 
